@@ -6,7 +6,6 @@ A simple and efficient To-Do application built with Django to help users manage 
 - 🔐 User authentication (Signup, Login, Logout)
 - 📝 Create, Read, Update, and Delete (CRUD) tasks
 - ✅ Mark tasks as completed
-- 📂 Categorize tasks
 - 📱 Responsive UI for mobile and desktop
 
 ## 🛠 Technologies Used
